@@ -1,29 +1,29 @@
-# Projeto Unity: Math Quizz
+# Unity Project: Math Quizz
 
-Bem-vindo ao meu repositório Unity, onde compartilho meu projeto desenvolvido como parte do meu desenvolvimento nos jogos.
+Welcome to my Unity repository, where I share my project developed as part of my gaming development.
 
-## Descrição do Projeto
+## Project description
 
 ### Math Quizz
-O jogo gera uma conta aleatório e diversos números, o objetivo do jogador é em meio a grid levar o número que completa a conta até o inferior direito e clicar sobre o número, caso esteja certo passa de nivel, caso esteja errado é gameover.
+The game generates a random count and several numbers, the player's objective is to take the number that completes the count to the bottom right in the middle of the grid and click on the number, if it is right it passes the level, if it is wrong it is gameover.
 
 https://github.com/Akapaya/MathQuizz/assets/63330951/e4e1e0a0-1f52-443b-98e7-7095aae60c99
 
-## Desafios e Conquistas Unity
-Este projeto um dos meus de desenvolvimento pessoal, focando na jogabilidade, raciocínio e lógica.
+## Unity Challenges and Achievements
+This project is one of my personal development projects, focusing on gameplay, reasoning and logic.
 
-## Tecnologias e Habilidades Demonstradas
+## Demonstrated Technologies and Skills
 
 - Unity3D
 - C#
-- Usabilidade
+- Usability
 - Puzzle
 
-## Contato
+## Contact
 
-Sinta-se à vontade para entrar em contato comigo para discutir mais sobre este projeto ou colaborações futuras.
+Please feel free to contact me to discuss further about this project or future collaborations.
 
 - Email: gregory_valentim@hotmail.com
 - LinkedIn: [Gregory Valentim](https://www.linkedin.com/in/gregory-valentim/)
 
-Obrigado por explorar este projeto Unity.
+Thanks for exploring this Unity project.
